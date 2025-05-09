@@ -1,4 +1,4 @@
-Welcome to the the main Github page of the Institute for Artificial Intelligence (IAI) at the University of Bremen. Here you can find many of our software projects and ROS drivers.
+Welcome to the the main Github page of the AICOR Institute for Artificial Intelligence (IAI) at the University of Bremen. Here you can find many of our software projects and ROS drivers.
 
 Some other projects are organized in other Github or Gitlab pages. Here is a list of all other Github pages that are connected the IAI:
 
