@@ -7,6 +7,7 @@ Some other projects are organized in other Github or Gitlab pages. Here is a lis
 - <img height=16 alt="Gitlab Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg">[Gitlab/robokudo](https://gitlab.informatik.uni-bremen.de/robokudo): Robokudo
 - <img height=16 alt="Github Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg">[Github/knowrob](https://github.com/knowrob): KnowRob and rosprolog
 - <img height=16 alt="Github Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg">[Github/Multiverse-Framework](https://github.com/Multiverse-Framework/): Multiverse Framework
+- <img height=16 alt="Github Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg">[Github/RobCoG-IAI](https://github.com/robcog-iai): RobCoG - Robot Commonsense Games, a collection of Unreal Engine plugins and projects
 - <img height=16 alt="Github Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg">[Github/intel4coro](https://github.com/intel4coro): Interactive Learning Environment 4 Cognitive Robotics
 - <img height=16 alt="Github Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg">[Github/pr2-config-iai](https://github.com/pr2-config-iai): Fixes and additional drivers for the PR2 robot on ROS Noetic
 - <img height=16 alt="Github Logo" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg">[Github/hardware-designs-iai](https://github.com/hardware-designs-iai): Devices, PCB and CAD Models developed at the IAI
